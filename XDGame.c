@@ -27,11 +27,11 @@ int main()
 	}
 	if (a == 1)
 	{
-		awnser = 0;
+		
 		printf("\n2+2=\n");
 		while (a = 1)
 		{	
-			
+			awnser = getchar();			
 			if (awnser == 52)
 			{
 				printf("\nCorrect");
